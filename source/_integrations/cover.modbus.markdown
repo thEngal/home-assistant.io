@@ -112,7 +112,7 @@ covers:
 
 ## Examples
 
-In this section, you find some real-life examples of how to use this light.
+In this section, you find some real-life examples of how to controll a cover.
 
 ### Modbus cover controlled by a coil
 
